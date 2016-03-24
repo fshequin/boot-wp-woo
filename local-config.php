@@ -18,7 +18,7 @@
 
 /** The name of the database for WordPress */
 
-define('DB_NAME', 'woo-test');
+define('DB_NAME', 'boot-wp-woo');
 
 /** MySQL database username */
 define('DB_USER', 'root');

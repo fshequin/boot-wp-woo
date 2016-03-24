@@ -22,7 +22,7 @@ if ( file_exists( dirname( __FILE__ ) . '/local-config.php' ) ) {
 
 /** The name of the database for WordPress */
 
-define('DB_NAME', 'boot-wp');
+define('DB_NAME', 'boot-wp-woo');
 
 /** MySQL database username */
 define('DB_USER', 'root');
