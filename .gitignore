@@ -1,8 +1,7 @@
 # ignore everything in the root except the "wp-content/uploads & wp-content/upgrade/“ directory.
-/*
+
 wp-content/uploads
 wp-content/upgrade
-
 
 # ignore all files starting with .
 #.*
