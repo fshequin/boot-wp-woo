@@ -14,10 +14,10 @@ A basic Wordpress site framework with Bootstrap 3.x and WooCommerce
 6. The Wordpress 4.4.2 framework
 7. The WooCommerce eCommerce plugin and some woo-tab customizations
 8. Wordpress config rearranged to allow for both local and hosted DB configurations
-9. A starter theme called "boot", ready for customization
+9. A starter theme called "boot-theme-woo", ready for customization
 10. Added a mixins.less file with many commonly used LESS mixins which compiles from style.less
 11. I use CodeKit to check and compile the bootstrap and my own custom LESS / JS into the site's working CSS and JS files. The project includes a CodeKit config file that saves project level settings.
 
-**Notes:** 
+**Notes:**
 
 Clone this repo into any folder, then hook up the theme folder to CodeKit and your ready to Rock!

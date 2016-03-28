@@ -4,6 +4,7 @@ wp-content/uploads/*
 wp-content/uploads/2016/
 wp-content/uploads/2016/*
 wp-content/upgrade/
+wp-content/wp-cache-config.php
 
 # track this file .gitignore (i.e. do NOT ignore it)
 !.gitignore
