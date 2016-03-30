@@ -8,3 +8,4 @@ wp-content/wp-cache-config.php
 
 # track this file .gitignore (i.e. do NOT ignore it)
 !.gitignore
+wp-content/.DS_Store
