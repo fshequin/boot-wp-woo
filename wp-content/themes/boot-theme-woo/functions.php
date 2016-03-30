@@ -24,10 +24,11 @@
 
  // link in the lib files
 
- 	//require TEMPLATEPATH.'/libs/post_types.php';				// custom post types
- 	//require TEMPLATEPATH.'/libs/taxonomies.php';				// custom taxonomies
- 	require TEMPLATEPATH.'/libs/scripts.php'; 						// register & enqeue scripts
- 	//require TEMPLATEPATH.'/libs/woocommerce-tabs.php';		// woocommerce custom tabs
+  //require TEMPLATEPATH.'/libs/post_types.php';				// custom post types
+  //require TEMPLATEPATH.'/libs/taxonomies.php';				// custom taxonomies
+  require TEMPLATEPATH.'/libs/scripts.php';							// register & enqeue scripts
+  require TEMPLATEPATH.'/libs/woocommerce.php';					// woocommerce hooks
+  require TEMPLATEPATH.'/libs/woocommerce-tabs.php';		// woocommerce custom tabs
 
 
 	//add_action('init', 'require_boot_metaboxes');
